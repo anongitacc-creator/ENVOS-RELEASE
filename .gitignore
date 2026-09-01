@@ -8,3 +8,7 @@ analysis/*.pdf
 analysis/*.png
 analysis/figs_crop/
 videos/
+
+# never commit manuscript sources or built PDFs
+*.tex
+*.pdf
